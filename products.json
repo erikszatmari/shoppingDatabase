@@ -25,13 +25,13 @@
 },{
     "id":5,
     "title":"Phone",
-    "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "desc":"A mobile phone, cell phone or hand phone...",
     "img":"iphone-lg.png",
     "price":76.54
 },{
     "id":6,
     "title":"Lightbulb",
-    "desc":"Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
+    "desc":"An incandescent light bulb, incandescent lamp or incandescent light globe is an electric light with a wire filament heated to such a high temperature that it glows with visible light (incandescence).",
     "img":"lightbulb-alt-on-lg.png",
     "price":23.45
 }]
