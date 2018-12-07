@@ -1,19 +1,19 @@
 [{
     "id":1,
     "title":"Bell",
-    "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "desc":"The bell played with a percussion instrument, its most important role in the church.",
     "img":"bell-lg.png",
     "price":12.34
 },{
     "id":2,
     "title":"Bullhorn",
-    "desc":"Quisquam, veritatis, officia. Veritatis, saepe!",
+    "desc":"Horns or horns are a horn, a group of ruminant mammals, the head of the bivalves (Bovidae).",
     "img":"bullhorn-lg.png",
     "price":43.21
 },{
     "id":3,
     "title":"Clock",
-    "desc":"Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
+    "desc":"A clock is an instrument used to measure, keep, and indicate time.",
     "img":"clock-lg.png",
     "price":45.67
 },{
